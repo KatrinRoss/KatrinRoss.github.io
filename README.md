@@ -8,3 +8,4 @@ My Portfolio
 * [black&white](https://katrinross.github.io/black&white/ "Black&White")
 * [Expoforum](https://katrinross.github.io/Expoforum/ "Expoforum")
 * [LogyType](https://katrinross.github.io/LogyType/ "LogyType")
+* [Rosa](https://katrinross.github.io/Rosa/ "Rosa Restaurant")
