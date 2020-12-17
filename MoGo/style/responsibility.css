@@ -1,0 +1,571 @@
+@media (max-width: 1200px) {
+    .container{
+        max-width: 992px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .nav_bg{
+        height: 860px;
+    }
+    .nav_subtitle{
+        font-size: 125px;
+    }
+    .nav_title-text{
+        padding-top: 70px;
+    }
+    .tab_text{
+        width: 200px;
+    }
+    .subtitle{
+        padding-top: 45px;
+    }
+    .about_description{
+        width: 800px;
+    }
+    .non{
+        display: none;
+    }
+    .none-1{
+        display: block;
+    }
+    .about_images{
+        justify-content: center;
+    }
+    .services{
+        margin-bottom: 75px;
+    }
+    .service{
+        width: 260px;
+        margin-right: 35px;
+    }
+    .design_im{
+        top: 17px;
+    }
+    .design_im_1{
+        top: 251px;
+        left: 600px;
+    }
+    .do_image{
+        margin-right: 20px;
+        margin-bottom: 50px;
+    }
+    .qoute_description{
+        font-size: 20px;
+    }
+    .qoute_img{
+        margin-right: 40px;
+        margin-left: 45px;
+    }
+    .qoute_text-1{
+        margin-top: 10px;
+    }
+    .qoute_all{
+        max-width: 900px;
+    }
+    .team{
+        justify-content: space-around;
+    }
+    .qoute__text{
+        margin-top: 50px;
+    }
+    .people_description{
+        width: 330px;
+    }
+    .people_bg{
+        max-height: 730px;
+    }
+    .contact_network{
+        width: 330px;
+    }
+    .brands_1{
+        width: 100%;
+    }
+    .brands_bg{
+        height: 200px;
+    }
+    .follow{
+        font-size: 13px;
+        margin-right: 10px;
+    }
+    .follow_icon{
+        margin-right: 15px;
+    }
+    .contact_logo{
+        margin-top: 50px;
+        margin-bottom: 40px;
+    }
+    .contact_form{
+        margin-bottom: 40px;
+    }
+    .form__input{
+        width: 200px;
+        padding-left: 10px;
+    }
+    .form__button{
+        width: 130px;
+    }
+    .contact_network_1{
+        width: 275px;
+    }
+    .contact_blogs{
+        margin-top: 60px;
+        margin-bottom: 40px;
+    }
+    .contact_network_1{
+        width: 300px;
+    }
+}
+@media (max-width: 991px) {
+    .container{
+        max-width: 768px;
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    .nav_link{
+        margin-right: 20px;
+    }
+    .tape{
+        margin-bottom: 40px;
+    }
+    .tab_text{
+        width: 165px;
+    }
+    .about_description{
+        width: 690px;
+    }
+    .about_image{
+        width: 320px;
+        height: 230px;
+    }
+    .last{
+        margin-right: 0px;
+    }
+    .about_hidden{
+        width: 320px;
+        height: 230px;
+    }
+    .counter{
+        height: 200px;
+    }
+    .counter_number{
+        font-size: 60px;
+    }
+    .services{
+        margin-bottom: 45px;
+    }
+    .service{
+        width: 250px;
+        margin-right: 20px;
+    }
+    .design_bg{
+        height: 777px;
+    }
+    .design_im{
+        top: -48px;
+    }
+    .design_im_1{
+        top: 169px;
+        left: 474px;
+    }
+    .do_description{
+        width: 700px;
+        margin-bottom: 40px;
+    }
+    .image{
+        width: 400px;
+        margin-bottom: 40px;
+    }
+    .tabs_text{
+        font-size: 13px;
+        height: 40px;
+    }
+    .qoute_img{
+        margin-right: 35px;
+        margin-left: 35px;
+    }
+    .qoute_description{
+        font-size: 18px;
+    }
+    .member{
+        width: 350px;
+        height: 460px;
+    }
+    .member_prof{
+        margin-bottom: 50px;
+    }
+    .about_description{
+        margin-bottom: 65px;
+    }
+    .qoute_img-1{
+        margin-right: 43px;
+    }
+    .no{
+        display: none;
+    }
+    .brands_1{
+        width: 100%;
+    }
+    .brands_bg{
+        height: 180px;
+    }
+    .people_img{
+        margin-right: 70px;
+    }
+    .contact_network{
+        width: 385px;
+    }
+    .contact_text{
+        margin-bottom: 40px;
+    }
+    .follow{
+        margin-right: 15px;
+    }
+    .follow_icon{
+        margin-right: 15px;
+    }
+    .form__input{
+        width: 270px;
+    }
+    .form__button{
+        width: 270px;
+        text-align: center;
+    }
+    .contact_network_1{
+        width: 300px;
+    }
+}
+@media (max-width: 767px) {
+    .container{
+      max-width: 541px;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .nav_bg{
+        height: 690px;
+    }
+    .navigation{
+        position: relative;
+    }
+    #navig{
+        display: none;
+        flex-direction: column;
+        justify-content: center;
+        position: absolute;
+        top: 15px;
+        right: 40px;
+    }
+    .nav{
+        display: none;
+        width: 100px;
+        text-align: center;
+        background-color:  #f51f66;
+    }
+    .nav_link{
+        margin-right: 0px;
+    }
+    .none{
+        position: absolute;
+        right: 105px;
+        top: 45px;
+    }
+    .nav_search{
+        font-size: 10px;
+        border: 1px solid #FFF;
+        padding: 12px 42px;
+        width: 135px;
+        height: 35px;
+    }
+    .nav_button{
+        font-size: 10px;
+        border: 1px solid #FFF;
+        padding: 15px 30px;
+        width: 135px;
+        height: 40px;
+    } 
+    .nav_title{
+        font-size: 60px;
+        margin-bottom: 30px;
+    }
+    .nav_subtitle{
+        font-size: 90px;
+        margin-bottom: 20px;
+    }
+    .nav_tabs{
+        margin-top: 60px;
+    }
+    .tab_text{
+        width: 120px;
+    }
+    .color{
+        font-size: 17px;
+    }
+    .about_description{
+        margin-bottom: 50px;
+        width: 500px;
+    }
+    .about_image{
+        width: 230px;
+        height: 210px;
+    }
+    .parents{
+        margin-bottom: 60px;
+    }
+    .last{
+        margin-right: 0px;
+    }
+    .about_hidden{
+        width: 230px;
+        height: 210px;
+    }
+    .counter{
+        height: 150px;
+    }
+    .counter_number{
+        font-size: 40px;
+    }
+    .counter_title{
+        font-size: 11px;
+    }
+    .design_im_1{
+        display: none;
+    }
+    .image{
+        width: 260px;
+        margin-bottom: 120px;
+    }
+    .brands_1{
+        width: 100%;
+    }
+    .brands_bg{
+        height: 120px;
+    }
+    .do_description{
+        width: 515px;
+    }
+    .qoute_all{
+        max-width: 760px;
+    }
+    .nope{
+        display: none;
+    }
+    .contact_network{
+        width: 260px;
+    }
+    .contact_network_1{
+        width: 235px;
+    }
+    .follow_icon{
+        margin-right: 7px;
+    }
+    .contact_text{
+        margin-bottom: 25px;
+        width: 265px;
+    }
+    .blog_title_1{
+        font-size: 9px;
+        margin-top: 0px;
+    }
+    .contact_blog{
+        margin-bottom: 20px;
+        height: 80px;
+    }
+    .contact_blog_text{
+        margin-left: 10px;
+    }
+    .contact_blogs{
+        margin-top: 70px;
+        margin-bottom: 60px;
+    }
+    .form__input{
+        width: 250px;
+        text-align: center;
+    }
+    .form__button{
+        width: 250px;
+    }
+    .footer_text {
+        font-size: 13px;
+    }
+}
+@media (max-width: 540px) {
+    .container{
+      max-width: 380px;
+      padding-left: 15px;
+      padding-right: 15px;
+    }
+    .title{
+        font-size: 27px;
+        margin-bottom: 20px;
+    }
+    .subtitle{
+        padding-top: 30px;
+    }
+    .tape{
+        margin-bottom: 25px;
+    }
+    #navig {
+        width: 50%;
+    }
+    .none{
+        display: flex;
+        flex-direction: column;
+        position: relative;
+    }
+    .nav_form{
+        position: absolute;
+    }
+    .nav_bg{
+        height: 425px;
+    }
+    .nav_link{
+        font-size: 11px;
+    }
+    .nav_title-text{
+        padding-top: 35px;
+    }
+    .nav_title{
+        font-size: 45px;
+        margin-bottom: 20px;
+    }
+    .nav_subtitle{
+        font-size: 55px;
+        margin-bottom: 18px;
+    }
+    .nav_tape{
+        margin-bottom: 25px;
+    }
+    .tab_text{
+        display: none;
+    }
+    .color{
+        font-size: 12px;
+    }
+    .about_description{
+        margin-bottom: 35px;
+        width: 345px;
+    }
+    .no_1{
+        display: none;
+    }
+    .last_1{
+        margin-right: 0px;
+    }
+    .about_image{
+        width: 290px;
+        height: 220px;
+    }
+    .about_hidden{
+        width: 290px;
+        height: 220px;
+    }
+    .counter{
+        height: 10px;
+    }
+    .counter_text{
+        display: none;
+    }
+    .no_1{
+        display: none;
+    }
+    .services{
+        margin-bottom: 35px;
+    }
+    .design_im{
+        left: 0px;
+        top: -6px;
+        width: 370px;
+    }
+    .design_bg{
+        height: 545px;
+    }
+    .brands_bg{
+        height: 10px;
+    }
+    .brands{
+        display: none;
+    }
+    .do_description{
+        width: 360px;
+    }
+    .margin_tab{
+        margin-bottom: 20px;
+    }
+    .member{
+        width: 360px;
+        height: 450px;
+    }
+    .team_hidden{
+        width: 350px;
+        height: 450px;
+        top:-5px;
+        left: 0px;
+    }
+    .qoute_img{
+        margin-right: 15px;
+        margin-left: 15px;
+    }
+    .qoute_description{
+        font-size: 11px;
+    }
+    .qoute_author{
+        font-size: 18px;
+    }
+    .qoute_img{
+        height: 107px;
+        padding: 15px;
+    }
+    .qoute{
+        height: 240px;
+    }
+    .slick-list{
+        height: 113px;
+    }
+    .slider{
+        margin-top: 65px;
+    }
+    .people{
+        margin-bottom: 30px;
+    }
+    .people_img{
+        margin-right: 10px;
+    }
+    .people_description{
+        width: 210px;
+    }
+    .mar{
+        margin-bottom: 0px;
+    }
+    .people_prof{
+        margin-top: 10px;
+        margin-bottom: 15px;
+    }
+    .map_bg{
+        height: 150px;
+    }
+    .contact_network{
+        width: 350px;
+    }
+    .contact_logo_link{
+        text-align: center;
+    }
+    .contact_text{
+        margin-bottom: 20px;
+        width: 340px;
+        text-align: center;
+    }
+    .contact_networks{
+        justify-content: center;
+        padding-top: 15px;
+        margin-bottom: 30px;
+    }
+    .contact_follower{
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    .form__input{
+        width: 100%;
+    }
+    .form__button{
+        width: 100%;
+    }
+}
